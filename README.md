@@ -1,7 +1,7 @@
 # Mnist-fashion-classification
 This is the classification project on Minist fashion data set using CNN. 
 Project:
-The project started with importing some of the importatn libraries like numpy ,pandas , tensorflow and keras.
+The project started with importing some of the important libraries like numpy ,pandas , tensorflow and keras.
 for this project i used keras tuner for the hyperparameter tuning of the number of neurons.
 
 so firstly i created a function for the hyperparameters.I used 2 convolution layers then flatten a flatten layer and lastly 2 Dense layers given with different values.Then compiled the process with adam optimizer.
